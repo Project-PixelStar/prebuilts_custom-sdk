@@ -38,7 +38,7 @@ maven_repos = {
 maven_artifacts = {
     
     # material 3
-    'com.google.android.material:material:1.6.1:aar': {'repo': 'gmaven', 'name': 'com.google.android.material_material_md3'}
+    'com.google.android.material:material:1.9.0:aar': {'repo': 'gmaven', 'name': 'com.google.android.material_material_md3'}
 }
 
 # Mapping of POM dependencies to Soong build targets
