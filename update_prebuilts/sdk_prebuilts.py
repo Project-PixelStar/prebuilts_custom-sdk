@@ -172,8 +172,11 @@ maven_to_make = {
     # Third-party dependencies
     'com.google.android:flexbox': {'name':'flexbox', 'path':'flexbox'},
 
-    # Androidx Material Design Components
-    'com.google.android.material:material': { },
+    # Glide
+    'com.github.bumptech.glide:glide': { },
+    'com.github.bumptech.glide:annotation': { },
+    'com.github.bumptech.glide:gifdecoder': { },
+    'com.github.bumptech.glide:disklrucache': { },
 }
 
 # Mapping of POM dependencies to Soong build targets
