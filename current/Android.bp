@@ -126,7 +126,7 @@ android_library {
 
 android_library_import {
     name: "com.google.android.material_material_md3-nodeps",
-    aars: ["com.google.android.material/material/1.10.0/material-1.10.0.aar"],
+    aars: ["com.google.android.material/material/1.11.0/material-1.11.0.aar"],
     sdk_version: "31",
     apex_available: [
         "//apex_available:platform",
