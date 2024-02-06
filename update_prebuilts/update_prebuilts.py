@@ -38,7 +38,7 @@ maven_repos = {
 maven_artifacts = {
     
     # material 3
-    'com.google.android.material:material:1.10.0:aar': {'repo': 'gmaven', 'name': 'com.google.android.material_material_md3'},
+    'com.google.android.material:material:1.11.0:aar': {'repo': 'gmaven', 'name': 'com.google.android.material_material_md3'},
 
     # Glide
     'com.github.bumptech.glide:glide:4.16.0:aar': {'repo': 'maven', 'name': 'com.github.bumptech.glide_glide'},
