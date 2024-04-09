@@ -4,7 +4,7 @@
 
 java_import {
     name: "com.github.bumptech.glide_annotations-nodeps",
-    jars: ["com.github.bumptech.glide/annotations/4.16.0/annotations-4.16.0.jar"],
+    jars: ["com.github.bumptech.glide/annotations/5.0.0-rc01/annotations-5.0.0-rc01.jar"],
     sdk_version: "31",
     apex_available: [
         "//apex_available:platform",
@@ -29,7 +29,7 @@ java_library_static {
 
 java_import {
     name: "com.github.bumptech.glide_disklrucache-nodeps",
-    jars: ["com.github.bumptech.glide/disklrucache/4.16.0/disklrucache-4.16.0.jar"],
+    jars: ["com.github.bumptech.glide/disklrucache/5.0.0-rc01/disklrucache-5.0.0-rc01.jar"],
     sdk_version: "31",
     apex_available: [
         "//apex_available:platform",
@@ -54,7 +54,7 @@ java_library_static {
 
 android_library_import {
     name: "com.github.bumptech.glide_gifdecoder-nodeps",
-    aars: ["com.github.bumptech.glide/gifdecoder/4.16.0/gifdecoder-4.16.0.aar"],
+    aars: ["com.github.bumptech.glide/gifdecoder/5.0.0-rc01/gifdecoder-5.0.0-rc01.aar"],
     sdk_version: "31",
     apex_available: [
         "//apex_available:platform",
@@ -84,7 +84,7 @@ android_library {
 
 android_library_import {
     name: "com.github.bumptech.glide_glide-nodeps",
-    aars: ["com.github.bumptech.glide/glide/4.16.0/glide-4.16.0.aar"],
+    aars: ["com.github.bumptech.glide/glide/5.0.0-rc01/glide-5.0.0-rc01.aar"],
     sdk_version: "31",
     apex_available: [
         "//apex_available:platform",

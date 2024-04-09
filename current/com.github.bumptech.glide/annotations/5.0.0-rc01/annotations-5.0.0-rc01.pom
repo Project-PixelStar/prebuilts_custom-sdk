@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.bumptech.glide</groupId>
   <artifactId>annotations</artifactId>
-  <version>4.16.0</version>
+  <version>5.0.0-rc01</version>
   <name>Glide Annotations</name>
   <description>A set of annotations for configuring Glide.</description>
   <url>https://github.com/bumptech/glide</url>
