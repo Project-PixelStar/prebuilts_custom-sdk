@@ -41,10 +41,10 @@ maven_artifacts = {
     'com.google.android.material:material:1.11.0:aar': {'repo': 'gmaven', 'name': 'com.google.android.material_material_md3'},
 
     # Glide
-    'com.github.bumptech.glide:glide:4.16.0:aar': {'repo': 'maven', 'name': 'com.github.bumptech.glide_glide'},
-    'com.github.bumptech.glide:annotations:4.16.0:jar': {'repo': 'maven', 'name': 'com.github.bumptech.glide_annotations'},
-    'com.github.bumptech.glide:gifdecoder:4.16.0:aar': {'repo': 'maven', 'name': 'com.github.bumptech.glide_gifdecoder'},
-    'com.github.bumptech.glide:disklrucache:4.16.0:jar': {'repo': 'maven', 'name': 'com.github.bumptech.glide_disklrucache'},
+    'com.github.bumptech.glide:glide:5.0.0-rc01:aar': {'repo': 'maven', 'name': 'com.github.bumptech.glide_glide'},
+    'com.github.bumptech.glide:annotations:5.0.0-rc01:jar': {'repo': 'maven', 'name': 'com.github.bumptech.glide_annotations'},
+    'com.github.bumptech.glide:gifdecoder:5.0.0-rc01:aar': {'repo': 'maven', 'name': 'com.github.bumptech.glide_gifdecoder'},
+    'com.github.bumptech.glide:disklrucache:5.0.0-rc01:jar': {'repo': 'maven', 'name': 'com.github.bumptech.glide_disklrucache'},
 }
 
 # Mapping of POM dependencies to Soong build targets
